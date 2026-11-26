@@ -1,0 +1,4 @@
+hotel_bokings.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
